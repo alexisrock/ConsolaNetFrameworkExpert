@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\ConsolaFramework\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsolaFramework\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsolaFramework\Dominio\bin\Debug\Dominio.dll
+C:\Users\Lenovo\source\repos\ConsolaFramework\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Lenovo\source\repos\ConsolaFramework\Dominio\obj\Debug\Dominio.dll
+C:\Users\Lenovo\source\repos\ConsolaFramework\Dominio\obj\Debug\Dominio.pdb

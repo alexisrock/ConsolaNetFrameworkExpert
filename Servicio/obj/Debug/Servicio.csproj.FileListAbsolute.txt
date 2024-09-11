@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\bin\Debug\Servicio.dll
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\bin\Debug\Servicio.pdb
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\bin\Debug\DataAccess.dll
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\bin\Debug\Dominio.dll
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\bin\Debug\DataAccess.pdb
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\bin\Debug\Dominio.pdb
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\obj\Debug\Servicio.dll
+C:\Users\Lenovo\source\repos\ConsolaFramework\Servicio\obj\Debug\Servicio.pdb
